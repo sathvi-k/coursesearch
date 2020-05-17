@@ -64,4 +64,4 @@
 #
 
 ## __4. Use the Course Search database!__
-- After running the SQL script, there should be 4 entries in the coursesearch database. Add a few of your own by entering information and clicking the "Submit" button. Then, click the "Search" button to see all the entries, including the ones you've added!
+- After running the SQL script, there should be 4 entries in the coursesearch database. Add a few of your own by entering information and clicking the "Submit" button. Then, click the "Search" button to see all the entries, including the ones you've added! Look at the coursesearchscreen.png image to see an example of this. The SQL script added the first four people in the database, and I added the last entry (Ally Wood, who's taking Earth Science 80) to the database then clicked the "Search" button to see all 5 entries!
