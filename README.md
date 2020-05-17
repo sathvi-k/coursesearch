@@ -63,5 +63,5 @@
 
 #
 
-## __4. Use the coursesearch!__
+## __4. Use the Course Search database!__
 - After running the SQL script, there should be 4 entries in the coursesearch database. Add a few of your own by entering information and clicking the "Submit" button. Then, click the "Search" button to see all the entries, including the ones you've added!
