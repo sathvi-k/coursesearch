@@ -28,7 +28,7 @@
     ```javascript
     const db = mysql.createConnection({
         host : 'localhost',
-        user : 'your_database_username (if you''re using localhost, this is probably root)',
+        user : 'your_database_username (if you're using localhost, this is probably root)',
         password : 'your_database_password',
         database : 'your_database_name (should be CourseSearch)'
     });
